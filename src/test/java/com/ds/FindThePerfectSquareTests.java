@@ -15,8 +15,8 @@ public class FindThePerfectSquareTests {
         List<Integer> response = findTheSquares.findEvenSquares(numbers);
         expected.add(1);
         expected.add(4);
-        expected.add(16);
         expected.add(9);
+        expected.add(16);
         Assert.assertEquals(4, response.size());
         for (int i = 0; i < response.size(); i++) {
             Assert.assertEquals(expected.get(i), response.get(i));
