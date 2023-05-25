@@ -1,10 +1,10 @@
 # java-data-structures
 
 ### Mettle Coding Challenge
-Perfect Square Roots Solution can be found here: https://github.com/revinkama/java-data-structures/blob/main/src/main/java/com/ds/FindTheSquares.java
-
-Perfect Square Roots Tests can be found here: https://github.com/revinkama/java-data-structures/blob/main/src/test/java/com/ds/FindTheSquareTests.java
-
+Perfect Square Roots Solution can be found here: [https://github.com/revinkama/java-data-structures/blob/main/src/main/java/com/ds/FindTheSquares.java
+](https://github.com/revinkama/java-data-structures/blob/main/src/main/java/com/ds/FindThePerfectSquares.java)
+Perfect Square Roots Tests can be found here: [https://github.com/revinkama/java-data-structures/blob/main/src/test/java/com/ds/FindTheSquareTests.java
+](https://github.com/revinkama/java-data-structures/blob/main/src/test/java/com/ds/FindThePerfectSquareTests.java)
 ### Mettle Questions and Answers
 
 **Q. Have you ever worked with any Java design patterns? If yes, please describe which patterns you have used and the use cases/scenarios in which you used them.**
