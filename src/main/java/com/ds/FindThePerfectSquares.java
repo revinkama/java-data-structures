@@ -6,6 +6,7 @@ import java.util.stream.Collectors;
 public class FindThePerfectSquares {
 
     public List<Integer> findEvenSquares(Integer[] numbers) {
+        Arrays.sort(numbers);
         return Arrays.stream(numbers).filter(num -> {
             double sqrt = Math.sqrt(num);
             return (sqrt - Math.floor(sqrt)) == 0;
