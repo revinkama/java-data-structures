@@ -5,6 +5,9 @@ Perfect Square Roots Solution can be found here: https://github.com/revinkama/ja
 
 Perfect Square Roots Tests can be found here: https://github.com/revinkama/java-data-structures/blob/main/src/test/java/com/ds/FindThePerfectSquareTests.java
 
+### Running Perfect Squares
+I created a main method in the class in order to make running it easier. Just compile and run the class!
+
 ### Mettle Questions and Answers
 
 **Q. Have you ever worked with any Java design patterns? If yes, please describe which patterns you have used and the use cases/scenarios in which you used them.**
