@@ -32,6 +32,6 @@ public class ReverseInteger {
     public static void main(String[] args) {
         ReverseInteger reverseInteger = new ReverseInteger();
         System.out.println(reverseInteger.reverse(1234));
-        System.out.println(reverseInteger.reverseToString(1234));
+        System.out.println(Integer.parseInt(reverseInteger.reverseToString(1234)));
     }
 }
